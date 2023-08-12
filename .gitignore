@@ -4,3 +4,5 @@ Scripts/
 pyvenv.cfg
 **/*/__pycache__/
 .vscode/
+storage/tibia_bazaar/current_auctions/*
+storage/tibia_bazaar/auction_history/*
