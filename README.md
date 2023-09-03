@@ -60,6 +60,10 @@ This will enable you to send notification containing the best deals available in
 
 FAQ: https://sean-bradley.medium.com/get-telegram-chat-id-80b575520659
 
+## License
+
+This project is licensed under the MIT License.
+
 ## Output (Sample):
 
 ```sh
