@@ -1,0 +1,3 @@
+- history auctions and history auction details implementation;
+- error handling (exponencial back-off instead of static threshold);
+- unit tests (seriously?);
