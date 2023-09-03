@@ -1,26 +1,39 @@
-import re
+import time
 
-from time import sleep
-
-from src.tibia_bazaar.pages import Page, CurrentAuctionsPage, AuctionHistoryPage
-# from src.tibia_bazaar.transformers import Transformer, CurrentAuctionsTransformer, AuctionHistoryTransformer
-from src.tibia_bazaar.scrapper import TibiaBazaarScrapper
-from src.tibia_bazaar.storages import Storage, CurrentAuctionsStorage, AuctionHistoryStorage
-
-
-def scrap_current_auctions():
-    page = CurrentAuctionsPage()
-    storage = CurrentAuctionsStorage()
-
-    TibiaBazaarScrapper(page, storage).auto_scrap()
+from src.tibia_bazaar.tasks import (
+    scrap_current_auctions,
+    scrap_auction_details,
+    filter_auctions,
+    notify_auctions,
+)
 
 
-def scrap_auction_history():
-    page = AuctionHistoryPage()
-    storage = AuctionHistoryStorage()
+def auto_run():
+    while True:
+        try:
+            run()
+        except Exception as e:
+            print(str(e))
+            exit(1)
 
-    TibiaBazaarScrapper(page, storage).auto_scrap()
+        print("Next execution in 5 minutes...")
 
-if __name__ == '__main__':
-    scrap_current_auctions()
-    # scrap_auction_history()
+        time.sleep(300)
+
+
+def run():
+    # scrap current auctions (10 pages is enough)
+    scrap_current_auctions(1, 10)
+
+    # scrap auction details for current auctions (not necessary)
+    # scrap_auction_details()
+
+    # filter auctions
+    filter_auctions()
+
+    # notify auctions
+    notify_auctions()
+
+
+if __name__ == "__main__":
+    auto_run()

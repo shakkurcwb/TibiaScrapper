@@ -3,6 +3,10 @@ Lib/
 Scripts/
 pyvenv.cfg
 **/*/__pycache__/
+__pycache__/
 .vscode/
 storage/tibia_bazaar/current_auctions/*
+storage/tibia_bazaar/auction_details/*
 storage/tibia_bazaar/auction_history/*
+storage/tibia_bazaar/auction_history_details/*
+.env

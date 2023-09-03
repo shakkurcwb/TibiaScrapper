@@ -1,0 +1,438 @@
+[
+    {
+        "auction_id": 1338580,
+        "auction_url": "https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades&page=details&auctionid=1338580&source=overview&filter_profession=0&filter_levelrangefrom=0&filter_levelrangeto=0&filter_world=&filter_worldpvptype=9&filter_worldbattleyestate=0&filter_skillid=&filter_skillrangefrom=0&filter_skillrangeto=0&order_column=101&order_direction=1&searchtype=1\u00a4tpage=1",
+        "character_image_url": "https://static.tibia.com/images/charactertrade/outfits/1270_3.gif",
+        "character_name": "Rhusttin",
+        "character_level": 519,
+        "character_vocation": "Elite Knight",
+        "character_gender": "Male",
+        "world_name": "Kalibra",
+        "world_url": "https://www.tibia.com/community/?subtopic=worlds&world=Kalibra",
+        "auction_start_date": "2023-08-31 10:06:00+02:00",
+        "auction_end_date": "2023-09-03 02:15:00+02:00",
+        "bid": 3600.0,
+        "main_features": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-2.png",
+                "description": "Achievement \"Rathleton Commoner\" accomplished"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-7.png",
+                "description": "Total Charm Points 4977, Unused Charm Points: 1177"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "116 Axe Fighting (Loyalty bonus not included)"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-6.png",
+                "description": "Unlocked Powerful Imbuements: 21"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-2.png",
+                "description": "Achievement \"Ender of the End\" accomplished"
+            }
+        ],
+        "main_items": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/22182.gif",
+                "description": "teleportation rod\nA rod to be powerful enough to transport the godbreaker parts to a place of safety"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/28494.gif",
+                "description": "2x silver chimes"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/32226.gif",
+                "description": "purifier for lost souls"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/37559.gif",
+                "description": "dragon pinata"
+            }
+        ]
+    },
+    {
+        "auction_id": 1339252,
+        "auction_url": "https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades&page=details&auctionid=1339252&source=overview&filter_profession=0&filter_levelrangefrom=0&filter_levelrangeto=0&filter_world=&filter_worldpvptype=9&filter_worldbattleyestate=0&filter_skillid=&filter_skillrangefrom=0&filter_skillrangeto=0&order_column=101&order_direction=1&searchtype=1\u00a4tpage=1",
+        "character_image_url": "https://static.tibia.com/images/charactertrade/outfits/367_3.gif",
+        "character_name": "Mytax",
+        "character_level": 451,
+        "character_vocation": "Elite Knight",
+        "character_gender": "Male",
+        "world_name": "Inabra",
+        "world_url": "https://www.tibia.com/community/?subtopic=worlds&world=Inabra",
+        "auction_start_date": "2023-09-01 10:06:00+02:00",
+        "auction_end_date": "2023-09-03 02:15:00+02:00",
+        "bid": 2500.0,
+        "main_features": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-2.png",
+                "description": "281 Achievement Points"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "111 Club Fighting (Loyalty bonus not included)"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "11 Magic Level (Loyalty bonus not included)"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "106 Shielding (Loyalty bonus not included)"
+            }
+        ],
+        "main_items": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/28537.gif",
+                "description": "ritual sword\nIt is far too fragile to use it in a real battle"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/31580.gif",
+                "description": "mortal mace"
+            }
+        ]
+    },
+    {
+        "auction_id": 1339905,
+        "auction_url": "https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades&page=details&auctionid=1339905&source=overview&filter_profession=0&filter_levelrangefrom=0&filter_levelrangeto=0&filter_world=&filter_worldpvptype=9&filter_worldbattleyestate=0&filter_skillid=&filter_skillrangefrom=0&filter_skillrangeto=0&order_column=101&order_direction=1&searchtype=1\u00a4tpage=1",
+        "character_image_url": "https://static.tibia.com/images/charactertrade/outfits/750_3.gif",
+        "character_name": "Frogsi Saint",
+        "character_level": 466,
+        "character_vocation": "Master Sorcerer",
+        "character_gender": "Male",
+        "world_name": "Mykera",
+        "world_url": "https://www.tibia.com/community/?subtopic=worlds&world=Mykera",
+        "auction_start_date": "2023-09-01 10:03:00+02:00",
+        "auction_end_date": "2023-09-03 02:15:00+02:00",
+        "bid": 2071.0,
+        "main_features": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "96 Magic Level (Loyalty bonus not included)"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "466 Level"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-7.png",
+                "description": "Total Charm Points 3279, Unused Charm Points: 179"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-2.png",
+                "description": "187 Achievement Points"
+            }
+        ],
+        "main_items": []
+    },
+    {
+        "auction_id": 1337058,
+        "auction_url": "https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades&page=details&auctionid=1337058&source=overview&filter_profession=0&filter_levelrangefrom=0&filter_levelrangeto=0&filter_world=&filter_worldpvptype=9&filter_worldbattleyestate=0&filter_skillid=&filter_skillrangefrom=0&filter_skillrangeto=0&order_column=101&order_direction=1&searchtype=1\u00a4tpage=1",
+        "character_image_url": "https://static.tibia.com/images/charactertrade/outfits/152_3.gif",
+        "character_name": "Adrianyx",
+        "character_level": 487,
+        "character_vocation": "Elite Knight",
+        "character_gender": "Male",
+        "world_name": "Gladera",
+        "world_url": "https://www.tibia.com/community/?subtopic=worlds&world=Gladera",
+        "auction_start_date": "2023-08-30 10:06:00+02:00",
+        "auction_end_date": "2023-09-03 02:30:00+02:00",
+        "bid": 2859.0,
+        "main_features": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-4.png",
+                "description": "1x a hireling lamp (Store Item)"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-7.png",
+                "description": "Total Charm Points 2252, Unused Charm Points: 252"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "115 Sword Fighting (Loyalty bonus not included)"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-11.png",
+                "description": "Regular World Transfer can be purchased"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-5.png",
+                "description": "Store Mounts: 1"
+            }
+        ],
+        "main_items": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/23513.gif",
+                "description": "strange proto matter"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/23515.gif",
+                "description": "5x dangerous proto matter"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/23516.gif",
+                "description": "10x instable proto matter"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/23518.gif",
+                "description": "8x spark sphere"
+            }
+        ]
+    },
+    {
+        "auction_id": 1338809,
+        "auction_url": "https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades&page=details&auctionid=1338809&source=overview&filter_profession=0&filter_levelrangefrom=0&filter_levelrangeto=0&filter_world=&filter_worldpvptype=9&filter_worldbattleyestate=0&filter_skillid=&filter_skillrangefrom=0&filter_skillrangeto=0&order_column=101&order_direction=1&searchtype=1\u00a4tpage=1",
+        "character_image_url": "https://static.tibia.com/images/charactertrade/outfits/433_1.gif",
+        "character_name": "Mithas",
+        "character_level": 632,
+        "character_vocation": "Elder Druid",
+        "character_gender": "Female",
+        "world_name": "Belobra",
+        "world_url": "https://www.tibia.com/community/?subtopic=worlds&world=Belobra",
+        "auction_start_date": "2023-08-31 10:06:00+02:00",
+        "auction_end_date": "2023-09-03 02:30:00+02:00",
+        "bid": 8000.0,
+        "main_features": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-13.png",
+                "description": "Total Boss Points: 2140"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-2.png",
+                "description": "843 Achievement Points"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "116 Magic Level (Loyalty bonus not included)"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-7.png",
+                "description": "Total Charm Points 8113, Unused Charm Points: 1413"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-11.png",
+                "description": "Regular World Transfer can be purchased"
+            }
+        ],
+        "main_items": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/29420.gif",
+                "description": "shoulder plate"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/31296.gif",
+                "description": "flask with snake poison\nThe cobra poison in this flask is very potent. Even inhaling it would be dangerous. It leaks a bit and will evaporate shortly"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/32618.gif",
+                "description": "soulful legs"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/35283.gif",
+                "description": "durable exercise rod"
+            }
+        ]
+    },
+    {
+        "auction_id": 1335017,
+        "auction_url": "https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades&page=details&auctionid=1335017&source=overview&filter_profession=0&filter_levelrangefrom=0&filter_levelrangeto=0&filter_world=&filter_worldpvptype=9&filter_worldbattleyestate=0&filter_skillid=&filter_skillrangefrom=0&filter_skillrangeto=0&order_column=101&order_direction=1&searchtype=1\u00a4tpage=1",
+        "character_image_url": "https://static.tibia.com/images/charactertrade/outfits/142_3.gif",
+        "character_name": "Drim Carabina",
+        "character_level": 470,
+        "character_vocation": "Royal Paladin",
+        "character_gender": "Female",
+        "world_name": "Ombra",
+        "world_url": "https://www.tibia.com/community/?subtopic=worlds&world=Ombra",
+        "auction_start_date": "2023-08-28 10:05:00+02:00",
+        "auction_end_date": "2023-09-03 02:45:00+02:00",
+        "bid": 8500.0,
+        "main_features": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-13.png",
+                "description": "Total Boss Points: 4630"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-6.png",
+                "description": "Unlocked Powerful Imbuements: 23"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "470 Level"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-7.png",
+                "description": "Total Charm Points 7389, Unused Charm Points: 89"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "114 Distance Fighting (Loyalty bonus not included)"
+            }
+        ],
+        "main_items": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/27456.gif",
+                "description": "crossbow of destruction"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/29427.gif",
+                "description": "dark whispers"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/31579.gif",
+                "description": "embrace of nature"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/31581.gif",
+                "description": "bow of cataclysm"
+            }
+        ]
+    },
+    {
+        "auction_id": 1336119,
+        "auction_url": "https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades&page=details&auctionid=1336119&source=overview&filter_profession=0&filter_levelrangefrom=0&filter_levelrangeto=0&filter_world=&filter_worldpvptype=9&filter_worldbattleyestate=0&filter_skillid=&filter_skillrangefrom=0&filter_skillrangeto=0&order_column=101&order_direction=1&searchtype=1\u00a4tpage=1",
+        "character_image_url": "https://static.tibia.com/images/charactertrade/outfits/138_0.gif",
+        "character_name": "Inimigo do Oxigenio",
+        "character_level": 544,
+        "character_vocation": "Sorcerer",
+        "character_gender": "Female",
+        "world_name": "Ustebra",
+        "world_url": "https://www.tibia.com/community/?subtopic=worlds&world=Ustebra",
+        "auction_start_date": "2023-08-29 10:49:00+02:00",
+        "auction_end_date": "2023-09-03 03:00:00+02:00",
+        "bid": 4200.0,
+        "main_features": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-5.png",
+                "description": "Additional Slots: Prey"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-6.png",
+                "description": "Unlocked Powerful Imbuements: 22"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "106 Magic Level (Loyalty bonus not included)"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-7.png",
+                "description": "Total Charm Points 6049, Unused Charm Points: 949"
+            }
+        ],
+        "main_items": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/objects/6432.gif",
+                "description": "necromancer shield\nIt is enchanted with unholy, necromantic powers"
+            }
+        ]
+    },
+    {
+        "auction_id": 1336995,
+        "auction_url": "https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades&page=details&auctionid=1336995&source=overview&filter_profession=0&filter_levelrangefrom=0&filter_levelrangeto=0&filter_world=&filter_worldpvptype=9&filter_worldbattleyestate=0&filter_skillid=&filter_skillrangefrom=0&filter_skillrangeto=0&order_column=101&order_direction=1&searchtype=1\u00a4tpage=1",
+        "character_image_url": "https://static.tibia.com/images/charactertrade/outfits/578_3.gif",
+        "character_name": "Agrias Narau",
+        "character_level": 533,
+        "character_vocation": "Royal Paladin",
+        "character_gender": "Female",
+        "world_name": "Rasteibra",
+        "world_url": "https://www.tibia.com/community/?subtopic=worlds&world=Rasteibra",
+        "auction_start_date": "2023-08-30 10:04:00+02:00",
+        "auction_end_date": "2023-09-03 03:00:00+02:00",
+        "bid": 5000.0,
+        "main_features": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-10.png",
+                "description": "Daily Reward Streak: 172/7"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-7.png",
+                "description": "Total Charm Points 4223, Unused Charm Points: 523"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "114 Distance Fighting (Loyalty bonus not included)"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-5.png",
+                "description": "Hirelings total: 1, Professions: 3, Outfits: 0"
+            }
+        ],
+        "main_items": []
+    },
+    {
+        "auction_id": 1337864,
+        "auction_url": "https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades&page=details&auctionid=1337864&source=overview&filter_profession=0&filter_levelrangefrom=0&filter_levelrangeto=0&filter_world=&filter_worldpvptype=9&filter_worldbattleyestate=0&filter_skillid=&filter_skillrangefrom=0&filter_skillrangeto=0&order_column=101&order_direction=1&searchtype=1\u00a4tpage=1",
+        "character_image_url": "https://static.tibia.com/images/charactertrade/outfits/129_0.gif",
+        "character_name": "Hunter Utita Full",
+        "character_level": 633,
+        "character_vocation": "Paladin",
+        "character_gender": "Male",
+        "world_name": "Ombra",
+        "world_url": "https://www.tibia.com/community/?subtopic=worlds&world=Ombra",
+        "auction_start_date": "2023-08-30 10:05:00+02:00",
+        "auction_end_date": "2023-09-03 03:00:00+02:00",
+        "bid": 10001.0,
+        "main_features": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-4.png",
+                "description": "2x a ferumbras exercise dummy (Store Item)"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-7.png",
+                "description": "Total Charm Points 7410, Unused Charm Points: 110"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-13.png",
+                "description": "Total Boss Points: 4965"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-0.png",
+                "description": "119 Distance Fighting (Loyalty bonus not included)"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-5.png",
+                "description": "Hirelings total: 2, Professions: 4, Outfits: 0"
+            }
+        ],
+        "main_items": []
+    },
+    {
+        "auction_id": 1339701,
+        "auction_url": "https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades&page=details&auctionid=1339701&source=overview&filter_profession=0&filter_levelrangefrom=0&filter_levelrangeto=0&filter_world=&filter_worldpvptype=9&filter_worldbattleyestate=0&filter_skillid=&filter_skillrangefrom=0&filter_skillrangeto=0&order_column=101&order_direction=1&searchtype=1\u00a4tpage=2",
+        "character_image_url": "https://static.tibia.com/images/charactertrade/outfits/128_0.gif",
+        "character_name": "Jeffinhoz",
+        "character_level": 693,
+        "character_vocation": "Elder Druid",
+        "character_gender": "Male",
+        "world_name": "Kalibra",
+        "world_url": "https://www.tibia.com/community/?subtopic=worlds&world=Kalibra",
+        "auction_start_date": "2023-09-01 10:06:00+02:00",
+        "auction_end_date": "2023-09-03 03:00:00+02:00",
+        "bid": 5504.0,
+        "main_features": [
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-5.png",
+                "description": "Store Decoration Items: 91"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-5.png",
+                "description": "Store Outfits: 4"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-13.png",
+                "description": "Total Boss Points: 8410"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-2.png",
+                "description": "754 Achievement Points"
+            },
+            {
+                "image_url": "https://static.tibia.com/images/charactertrade/usp-category-7.png",
+                "description": "Total Charm Points 9048, Unused Charm Points: 248"
+            }
+        ],
+        "main_items": []
+    }
+]
