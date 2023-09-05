@@ -331,18 +331,20 @@ def notify_auctions():
 
     bot = telegram.Bot(TELEGRAM_BOT_TOKEN)
 
-    text = f"Latest Deals ({len(auctions)}):  \U0001F525\n"
+    text = [f"Latest Deals ({len(auctions)}):  \U0001F525"]
     for auction in auctions:
         auction_end_date_humanified = arrow.get(
             auction.get("auction_end_date")
         ).humanize()
-        text += f"- [{auction.get('character_name')}]({auction.get('auction_url')}) ({auction.get('world_name')}) {auction.get('character_vocation')} {auction.get('character_level')} - ${auction.get('bid')} {auction_end_date_humanified}\n"
+        text.append(f"- [{auction.get('character_name')}]({auction.get('auction_url')}) ({auction.get('world_name')}) {auction.get('character_vocation')} {auction.get('character_level')} - ${auction.get('bid')} {auction_end_date_humanified}")
 
-    bot.send_message(
-        chat_id=TELEGRAM_CHAT_ID,
-        parse_mode=telegram.ParseMode.MARKDOWN,
-        text=text,
-    )
+    # every 20 auctions, send a message
+    for i in range(0, len(text), 20):
+        bot.send_message(
+            chat_id=TELEGRAM_CHAT_ID,
+            parse_mode=telegram.ParseMode.MARKDOWN,
+            text="\n".join(text[i : i + 20]),
+        )
 
     print("Notification sent to subscribers")
 
