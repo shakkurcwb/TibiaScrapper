@@ -281,6 +281,16 @@ def scrap_auction_details():
 
 
 def filter_auctions():
+    """
+    Filter auctions by:
+    - character level (500+)
+    - auction end date (less than 1 hour)
+    - bid (less than 10k)
+
+    These are my filters, you can change them as you wish.
+    You may find this resource helpful as well: https://www.tibiaplus.com
+    Good luck with your auctions! :)
+    """
     print("Filtering auctions")
 
     auctions = JsonFile("output/tibia_bazaar", "current_auctions.json").read()
@@ -289,8 +299,8 @@ def filter_auctions():
 
     filtered_auctions = []
     for auction in auctions:
-        # avoid characters below level 400
-        if auction.get("character_level") < 400:
+        # avoid characters below level 500
+        if auction.get("character_level") < 500:
             continue
 
         end_date = arrow.get(auction.get("auction_end_date")).to("America/Toronto")
@@ -303,8 +313,8 @@ def filter_auctions():
         if end_date > now.shift(hours=+1):
             continue
 
-        # avoid bids above 20k
-        if auction.get("bid") > 20000:
+        # avoid bids above 10k
+        if auction.get("bid") > 10000:
             continue
 
         filtered_auctions.append(auction)
@@ -331,7 +341,7 @@ def notify_auctions():
 
     bot = telegram.Bot(TELEGRAM_BOT_TOKEN)
 
-    text = [f"Latest Deals ({len(auctions)}):  \U0001F525"]
+    text = [f"Upcoming Deals ({len(auctions)}):  \U0001F525"]
     for auction in auctions:
         auction_end_date_humanified = arrow.get(
             auction.get("auction_end_date")
