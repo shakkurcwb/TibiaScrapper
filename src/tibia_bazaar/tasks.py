@@ -339,6 +339,15 @@ def notify_auctions():
 
     auctions = JsonFile("output/tibia_bazaar", "current_auctions_filtered.json").read()
 
+    if not auctions:
+        print("No auctions to notify")
+        bot.send_message(
+            chat_id=TELEGRAM_CHAT_ID,
+            parse_mode=telegram.ParseMode.MARKDOWN,
+            text="No auctions to notify",
+        )
+        return
+
     bot = telegram.Bot(TELEGRAM_BOT_TOKEN)
 
     text = [f"Upcoming Deals ({len(auctions)}):  \U0001F525"]
