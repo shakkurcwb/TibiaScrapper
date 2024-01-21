@@ -295,7 +295,7 @@ def filter_auctions():
 
     auctions = JsonFile("output/tibia_bazaar", "current_auctions.json").read()
 
-    now = arrow.get().to("America/Toronto")
+    now = arrow.get().to("UTC")
 
     filtered_auctions = []
     for auction in auctions:
@@ -303,7 +303,7 @@ def filter_auctions():
         if auction.get("character_level") < 500:
             continue
 
-        end_date = arrow.get(auction.get("auction_end_date")).to("America/Toronto")
+        end_date = arrow.get(auction.get("auction_end_date")).to("UTC")
 
         # avoid auctions that already ended
         if end_date < now:

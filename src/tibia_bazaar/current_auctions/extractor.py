@@ -44,7 +44,7 @@ class CurrentAuctionsExtractor(object):
                 class_="ShortAuctionDataValue"
             ).get_text(strip=True)
             auction_start_string = auction_start_value.replace("CEST", "+0200").replace(
-                "CET", "+0200"
+                "CET", "+0100"
             )
             auction_start_date = str(
                 datetime.strptime(auction_start_string, self.DATE_FORMAT)
@@ -55,7 +55,7 @@ class CurrentAuctionsExtractor(object):
                 class_="ShortAuctionDataValue"
             ).get_text(strip=True)
             auction_end_string = auction_end_value.replace("CEST", "+0200").replace(
-                "CET", "+0200"
+                "CET", "+0100"
             )
             auction_end_date = str(
                 datetime.strptime(auction_end_string, self.DATE_FORMAT)
